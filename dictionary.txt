@@ -29,9 +29,11 @@ Lean thinking - бережливое мышление
 LeSS Overall Retrospective - всеобщая ретроспектива LeSS
 Measurement dysfunction - дисфункция измерения
 Mental model - ментальная модель
+Mentor - Наставник
 Morale - боевой дух
 Multi-team - Многокомандный
 Multi-team Product Backlog Refinement - Многокомандное Уточнение Бэклога Продукта
+Observer - Наблюдатель
 Overall Product Backlog Refinement - Общее Уточнение Бэклога Продукта
 Overall Retrospective - Общая Ретроспектива
 Perfection goal - Цель совершенства
@@ -56,9 +58,10 @@ System dynamics - системная динамика
 Systems thinking - системное мышление
 Team-level Product Backlog Refinement - Командное Уточнение Бэклога продукта
 Transparency - Прозрачность
+Traveler - Путешественник
 Undone Work - Неготовая Работа
 Value - ценность
 Whole Product Focus - Фокус на Всем Продукте
 Wokrshop - сессия совместной работы
 Work in Iteration - Работа в Итерации
-work in progress - работа в процессе, проводимая работы в момент времени
+work in progress - работа в процессе, проводимые работы в момент времени
